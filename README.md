@@ -17,3 +17,12 @@ This project is about showcasing the work I have done till date.
 - ```aos.css```
 - ```aos.ls```
 - ```Open Sans Fonts```
+
+## Future Update
+- In future, I will start my personal blog. That will also become part of this portfolio.
+- Any future projects and experience will be added.
+
+## What I learned
+I learned about how to fix header on scroll. I have a hands on on a library which will help to generate animation on scroll. Also, I got a bit idea of CSS property, ```clip-path```.
+
+I am looking forward to add functionality to my contact form to get an email from there.
