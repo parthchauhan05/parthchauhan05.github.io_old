@@ -61,9 +61,7 @@ nav ul li a {
     -ms-flex-pack: distribute;
     justify-content: space-around;
     height: 80vh;
-    -webkit-box-align: end;
-    -ms-flex-align: end;
-    align-items: flex-end;
+    align-items: center;
 }
 
 #home .profile-image {
@@ -446,6 +444,7 @@ header label {
         -ms-flex-align: center;
         align-items: center;
         height: auto;
+        gap: 2rem;
     }
 
     #home .profile-image {
